@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to Mithun Software Solutions - Poll SCM Demo </h1>
-<h1 align="center"> Welcome to Mithun Software Solutions.......We have a DevOps Master Program demo on June 2nd week  at 6.00 AM IST for new batch. , This is a weekdays batch - 6.00 AM 7.30 AM IST . MSS- Very Good Training center for DevOps with AWS in Maratha Halli and also for Job Assitance Job Support also...Teaching Real Time scnerios and use cases... Some fake guys are giving the fake reviews dont believe those guys..I am requesting everyone. Please give your reviews in FB and Google.</h1>
+<h1 align="center"> Welcome to Mithun Software Solutions.....We have a DevOps Master Program demo on June 2nd week  at 6.00 AM IST for new batch. , This is a weekdays batch - 6.00 AM 7.30 AM IST . MSS- Very Good Training center for DevOps with AWS in Maratha Halli and also for Job Assitance Job Support also...Teaching Real Time scnerios and use cases... Some fake guys are giving the fake reviews dont believe those guys..I am requesting everyone. Please give your reviews in FB and Google.</h1>
 	<h1 align="center">   </h1>
 <hr>
 <div style="text-align: center;">
